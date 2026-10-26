@@ -20,8 +20,8 @@ The tools themselves live in their own repositories:
 
 | Tool | What it does | Where it lives |
 | --- | --- | --- |
-| **Steam Value Checker** | A Discord bot and web dashboard. Give it a list of games or an export file and it prices your library: MSRP, current Steam price, cheapest store today and all-time low, plus what you saved. It also tracks wishlists and sends alerts for sales, free games and bundles, and runs server features such as a shared wishlist, a savings leaderboard and key giveaways. | [Jacob-Lucado/SteamValueChecker](https://github.com/Jacob-Lucado/SteamValueChecker) |
-| **FanaticalGrabber** | A Chrome extension that reveals the game keys in your own Fanatical orders, exports them to TXT, CSV, JSON, Markdown, HTML or Excel, and can redeem them on Steam (beta). Everything runs in your browser. | [Jacob-Lucado/FanaticalGrabber](https://github.com/Jacob-Lucado/FanaticalGrabber) |
+| **Steam Value Checker** | A Discord bot and web dashboard. Give it a list of games or an export file and it prices your library: MSRP, current Steam price, cheapest store today and all-time low, plus what you saved. It also tracks wishlists and sends alerts for sales, free games and bundles, and runs server features such as a shared wishlist, a savings leaderboard and key giveaways. | [steamvaluechecker.fly.dev](https://steamvaluechecker.fly.dev/) (dashboard). Source: [GitHub](https://github.com/Jacob-Lucado/SteamValueChecker) |
+| **FanaticalGrabber** | A Chrome extension that reveals the game keys in your own Fanatical orders, exports them to TXT, CSV, JSON, Markdown, HTML or Excel, and can redeem them on Steam (beta). Everything runs in your browser. | [jacob-lucado.github.io/FanaticalGrabber](https://jacob-lucado.github.io/FanaticalGrabber/) (website and download). Source: [GitHub](https://github.com/Jacob-Lucado/FanaticalGrabber) |
 
 ### How they fit together
 
