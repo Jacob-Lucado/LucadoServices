@@ -39,7 +39,7 @@ Each tool works fine on its own.
 | Shop (`shop/index.html`) | Placeholder only. Nothing is for sale and nothing takes payments. Hidden from search engines until it's real |
 | Privacy policy (`privacy.html`) | What the website collects (nothing), who hosts it, and where to find each tool's own policy |
 | Terms of use (`terms.html`) | Terms for the website and both tools, including the not-affiliated notice and a limit on liability |
-| Not found (`404.html`) | A friendly dead-end with links back |
+| Not found (`404.html`) | A dead end with links back to the home page |
 
 The site has no accounts, forms, cookies or analytics, and loads no third-party scripts or fonts.
 
