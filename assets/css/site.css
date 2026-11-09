@@ -236,3 +236,18 @@ p{margin:0 0 1em;max-width:62ch}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
 @media print{.top,.foot .grid,.btns{display:none}body{background:#fff}}
+
+/* live numbers strip and the What's new page */
+.live{padding:0 0 clamp(28px,4vw,48px)}
+.live .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:10px 28px;border-top:1px solid rgba(10,42,48,.14);border-bottom:1px solid rgba(10,42,48,.14);padding-top:16px;padding-bottom:16px}
+.live-label{margin:0;font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;opacity:.7}
+.live ul{display:flex;flex-wrap:wrap;gap:6px 28px;margin:0;padding:0;list-style:none}
+.live li b{font-size:22px;letter-spacing:-.02em;margin-right:6px}
+.live a{margin-left:auto;font-weight:600}
+.news article{padding:0 0 28px;margin:0 0 28px;border-bottom:1px solid rgba(10,42,48,.12)}
+.news article:last-child{border-bottom:0}
+.news h2{margin:0 0 4px}
+.news-date{margin:0 0 12px;font-size:14px;opacity:.65}
+.news ul{margin:0;padding-left:20px}
+.news li{margin:0 0 8px}
+.news code{font:500 .9em var(--mono);background:#dcebee;padding:2px 6px;border-radius:5px}
